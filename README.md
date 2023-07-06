@@ -1,5 +1,5 @@
-"# proexjac.github.io" 
+# proexjac.github.io
 
-Site para o projeto de Xadrez do IFBA Campus Jacobina
+Website for the IFBA - Campus Jacobina chess project
 
-Link para o site: https://proexjac.github.io
+Link to website: https://proexjac.github.io
